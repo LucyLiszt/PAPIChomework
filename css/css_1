@@ -1,0 +1,12 @@
+.paragraph
+{
+    color:#9fe4ff;
+    margin-left:20px;
+    display:inline-block;
+}
+.c{
+    color:#9fe4ff;
+    margin-left:4px;
+    display:inline-block;
+}
+.body{background-image: url(image1.png);align="center" width="50%}
